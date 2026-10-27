@@ -2,6 +2,8 @@
 
 A content-based movie recommender built from movie descriptions, genres, keywords, and cast. The original prototype uses Streamlit and scikit-learn; the Vercel deployment uses a React/Vite interface, a precomputed recommendation catalog, and a small serverless function for TMDB poster lookup.
 
+**Live deployment:** [Reelgood Movie Recommender](https://movie-recommender-ochre-iota.vercel.app/)
+
 ## Run the Vercel app locally
 
 ```bash
